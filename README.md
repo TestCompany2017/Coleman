@@ -1,0 +1,1 @@
+Die erste Readme-Datei für meinen neuen Coleman-Kurs
